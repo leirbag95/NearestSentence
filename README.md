@@ -27,7 +27,7 @@ python3 wp1.py your_article1.txt your_article2.txt -
 ```
 
 
-## Result
+## Outcome
 
 For this example I selected 2 topics about the new iPhone (11 / 11 Pro)
 
