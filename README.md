@@ -31,3 +31,4 @@ python3 wp1.py your_article1.txt your_article2.txt -
 
 Verify if your 3 articles respect the Zipf’s law with showZipfSLow function
 
+![Screenshot from 2019-09-13 13-46-08](https://user-images.githubusercontent.com/17054452/64860255-e9bea000-d62c-11e9-8c9c-d74599f3529a.png)
