@@ -31,6 +31,10 @@ python3 wp1.py your_article1.txt your_article2.txt -
 
 For this example I selected 2 topics about the new iPhone (11 / 11 Pro)
 
+The smallest Jaccard distance is 0.6, it concerns the 5th sentence in the article 1 and 2nd sentence in the article 2.
+ 
+![Screenshot from 2019-09-13 13-48-36](https://user-images.githubusercontent.com/17054452/64860424-65205180-d62d-11e9-8193-daf09607de86.png)
+
 
 
 
