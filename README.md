@@ -1,5 +1,5 @@
 # NearestSentence
-The goal is to find the two nearest sentences (in a meaning/semantic way) in the articles on the same topic.
+The purpose is to find the two nearest sentences (in a meaning/semantic way) in the articles on the same topic.
 
 # How does it work ?
 ## Install
